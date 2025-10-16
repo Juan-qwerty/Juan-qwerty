@@ -9,10 +9,14 @@ I am a Systems and Computer Engineering student at the University of Cundinamarc
 ---
 
 ### 🚀 Technical Skills
-Languages: Python, JavaScript, SQL, MATLAB
-Web Development: HTML, CSS, React, .NET
+Languages: Python, JavaScript, SQL, MATLAB, .NET
+
+Web Development: HTML, CSS, React, ASPNET Core
+
 Databases: PostgreSQL, MySQL, SQLite
+
 Tools and DevOps: Git, GitHub, VS Code
+
 Data Analysis: Power BI
 
 ---
@@ -24,10 +28,11 @@ DevOps and CI/CD principles.
 ---
 
 ### 🔭 Featured Projects
-Web System for Water Stress Detection: Development of the complete frontend for an internationally recognized real-time monitoring system.
-Butterfly Classifier with Neural Networks: Implementation of an image classifier in MATLAB with over 90% accuracy.
-Inclusive Educational Software: Collaborated on the development of Braille learning software, winner of a social innovation award.
+- Web System for Water Stress Detection: Development of the complete frontend for an internationally recognized real-time monitoring system.
+- Butterfly Classifier with Neural Networks: Implementation of an image classifier in MATLAB with over 90% accuracy.
+- Inclusive Educational Software: Collaborated on the development of Braille learning software, winner of a social innovation award.
 
 ### 📫 Let's connect!
 Email: ing.fuentesjuan@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/juan-esteban-fuentes-rojas-184362336/
