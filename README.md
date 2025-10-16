@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Juan Esteban Fuentes Rojas
+# 👋 Hi! I'm Juan Esteban Fuentes Rojas.
 
 <div align="center">
   <img src="https://i.imgur.com/Uwe2LkI.png" width="30%">
