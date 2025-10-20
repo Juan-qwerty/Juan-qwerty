@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/Uwe2LkI.png" width="30%">
 </div>
 
-I am a Systems and Computer Engineering student at the University of Cundinamarca, passionate about web development and data analysis. I currently focus on creating efficient and accessible web applications using JavaScript and React.
+I am a Systems and Computer Engineering student at the University of Cundinamarca, passionate about web development and data analysis. I currently focus on creating efficient and accessible web applications using ML and AI.
 
 ---
 
